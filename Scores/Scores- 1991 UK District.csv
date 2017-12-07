@@ -1,0 +1,486 @@
+Zone.ID,Zone.name,TDS,quintile
+01AA,City Of London,2.504953813,5
+01AB,Camden,7.777487835,5
+01AC,Hackney,10.97599039,5
+01AD,Hammersmith and Fulham,6.722445489,5
+01AE,Haringey,6.586680077,5
+01AF,Islington,9.520194642,5
+01AG,Kensington and Chelsea,6.496543801,5
+01AH,Lambeth,8.283607101,5
+01AJ,Lewisham,5.678545812,5
+01AK,Newham,7.668686373,5
+01AL,Southwark,9.605422568,5
+01AM,Tower Hamlets,11.71272066,5
+01AN,Wandsworth,4.192021784,5
+01AP,City of Westminster,7.764782346,5
+02AQ,Barking and Dagenham,4.327652111,5
+02AR,Barnet,0.343384132,4
+02AS,Bexley,-1.769167031,2
+02AT,Brent,4.768921897,5
+02AU,Bromley,-2.173360952,2
+02AW,Croydon,-0.041108132,3
+02AX,Ealing,2.71475864,5
+02AY,Enfield,0.548129416,4
+02AZ,Greenwich,4.973237475,5
+02BA,Harrow,-1.096022882,3
+02BB,Havering,-1.872892903,2
+02BC,Hillingdon,-1.077916336,3
+02BD,Hounslow,1.819504869,4
+02BE,Kingston upon Thames,-1.801917427,2
+02BF,Merton,0.681596056,4
+02BG,Redbridge,-0.481342219,3
+02BH,Richmond Upon Thames,-1.252789139,3
+02BJ,Sutton,-1.735055504,2
+02BK,Waltham Forest,3.764058208,5
+03BL,Bolton,1.348473112,4
+03BM,Bury,-1.070499302,3
+03BN,Manchester,7.574862497,5
+03BP,Oldham,2.421555349,4
+03BQ,Rochdale,2.828368604,5
+03BR,Salford,4.406546832,5
+03BS,Stockport,-1.93528242,2
+03BT,Tameside,1.632526395,4
+03BU,Trafford,-0.795144002,3
+03BW,Wigan,0.630963984,4
+04BX,Knowsley,6.573448575,5
+04BY,Liverpool,6.829602642,5
+04BZ,St. Helens,1.399339546,4
+04CA,Sefton,0.648313801,4
+04CB,Wirral,0.643196355,4
+05CC,Barnsley,2.524515879,5
+05CE,Doncaster,1.926654547,4
+05CF,Rotherham,2.127544509,4
+05CG,Sheffield,3.281026808,5
+06CH,Gateshead,4.405960025,5
+06CJ,Newcastle upon Tyne,5.484955054,5
+06CK,North Tyneside,2.545369701,5
+06CL,South Tyneside,5.337683508,5
+06CM,Sunderland,4.626557885,5
+07CN,Birmingham,4.337184872,5
+07CQ,Coventry,1.886597261,4
+07CR,Dudley,0.079539312,3
+07CS,Sandwell,4.389898632,5
+07CT,Solihull,-2.064636476,2
+07CU,Walsall,2.509862524,5
+07CW,Wolverhampton,3.854436181,5
+08CX,Bradford,2.137373333,4
+08CY,Calderdale,0.713990484,4
+08CZ,Kirklees,0.901545526,4
+08DA,Leeds,1.896753964,4
+08DB,Wakefield,1.68014174,4
+09DC,Bath,0.688291652,4
+09DD,Bristol,1.34292415,4
+09DE,Kingswood,-3.721929562,1
+09DF,Northavon,-4.663345382,1
+09DG,Wansdyke,-4.06662666,1
+09DH,Woodspring,-3.021746906,1
+10DJ,Luton,0.789182172,4
+10DK,Mid Bedfordshire,-3.427203531,1
+10DL,North Bedfordshire,-1.064084145,3
+10DM,South Bedfordshire,-2.762693099,2
+11DN,Bracknell Forest,-2.414908539,2
+11DP,Newbury,-3.584751243,1
+11DQ,Reading,0.587700166,4
+11DR,Slough,1.370927654,4
+11DS,Windsor and Maidenhead,-3.170051967,1
+11DT,Wokingham,-5.712963287,1
+12DU,Aylesbury Vale,-2.815716578,2
+12DW,Chiltern,-4.432738645,1
+12DX,Milton Keynes,-0.859596963,3
+12DY,South Bucks,-3.815931914,1
+12DZ,Wycombe,-2.594876733,2
+13EB,Cambridge,1.355292453,4
+13EC,East Cambridgeshire,-2.885061343,2
+13EE,Fenland,-1.637647378,2
+13EF,Huntingdonshire,-3.227940649,1
+13EG,Peterborough,0.721674231,4
+13EH,South Cambridgeshire,-4.271399363,1
+14EJ,Chester,-1.06626923,3
+14EK,Congleton,-3.969016383,1
+14EL,Crewe and Nantwich,-1.351398744,3
+14EM,Ellesmere Port and Neston,-0.62006654,3
+14EN,Halton,2.454591429,4
+14EP,Macclesfield,-3.692842066,1
+14EQ,Vale Royal,-1.981958654,2
+14ER,Warrington,-1.275526989,3
+15ES,Hartlepool,3.721458828,5
+15ET,Langbaurgh-On-Tees,1.509799288,4
+15EU,Middlesbrough,4.355507115,5
+15EW,Stockton-on-Tees,1.269961143,4
+16EX,Caradon,-2.07175415,2
+16EY,Carrick,-1.180114521,3
+16EZ,Kerrier,-0.769865728,3
+16FA,North Cornwall,-1.7096818,2
+16FB,Penwith,0.631421088,4
+16FC,Restormel,-0.975899147,3
+16FD,Isles of Scilly,1.466619611,4
+17FE,Allerdale,-0.332754665,3
+17FF,Barrow-in-Furness,-0.215362723,3
+17FG,Carlisle,-0.307287643,3
+17FH,Copeland,0.579539858,4
+17FJ,Eden,-3.591937983,1
+17FK,South Lakeland,-3.961927163,1
+18FL,Amber Valley,-1.911573472,2
+18FM,Bolsover,1.156532577,4
+18FN,Chesterfield,1.097272527,4
+18FP,Derby,0.991132949,4
+18FQ,Derbyshire Dales,-3.083981568,1
+18FR,Erewash,-1.369625395,3
+18FS,High Peak,-1.793316744,2
+18FT,North East Derbyshire,-0.746052201,3
+18FU,South Derbyshire,-3.077333238,1
+19FW,East Devon,-3.157493669,1
+19FX,Exeter,-0.208012314,3
+19FY,Mid Devon,-2.437634234,2
+19FZ,North Devon,-1.644526394,2
+19GA,Plymouth,1.496801896,4
+19GB,South Hams,-2.940122963,2
+19GC,Teignbridge,-2.633013925,2
+19GD,Torbay,-0.176161785,3
+19GE,Torridge,-2.201860599,2
+19GF,West Devon,-2.840388995,2
+20GG,Bournemouth,0.393533364,4
+20GH,Christchurch,-3.038317664,1
+20GJ,East Dorset,-4.778120025,1
+20GK,North Dorset,-3.131661281,1
+20GL,Poole,-2.360945714,2
+20GM,Purbeck,-2.692547634,2
+20GN,West Dorset,-2.606398183,2
+20GP,Weymouth and Portland,-0.436702737,3
+21GQ,Chester-le-Street,0.346576741,4
+21GR,Darlington,0.872610114,4
+21GS,Derwentside,2.285909625,4
+21GT,Durham,0.869789685,4
+21GU,Easington,4.071877175,5
+21GW,Sedgefield,2.215211409,4
+21GX,Teesdale,-1.517672947,2
+21GY,Wear Valley,2.524003695,5
+22GZ,Brighton,2.630547438,5
+22HA,Eastbourne,0.161405422,3
+22HB,Hastings,1.410774642,4
+22HC,Hove,1.415262979,4
+22HD,Lewes,-2.79951397,2
+22HE,Rother,-2.44216948,2
+22HF,Wealden,-4.336722097,1
+23HG,Basildon,-0.273644034,3
+23HH,Braintree,-1.803544163,2
+23HJ,Brentwood,-3.582879282,1
+23HK,Castle Point,-3.648819755,1
+23HL,Chelmsford,-3.488101054,1
+23HM,Colchester,-1.813385362,2
+23HN,Epping Forest,-2.544732157,2
+23HP,Harlow,2.687903798,5
+23HQ,Maldon,-3.171400759,1
+23HR,Rochford,-4.068648961,1
+23HS,Southend-on-Sea,-0.252075143,3
+23HT,Tendring,-1.446026468,2
+23HU,Thurrock,-0.258011769,3
+23HW,Uttlesford,-3.675576085,1
+24HX,Cheltenham,-1.320009414,3
+24HY,Cotswold,-2.560502066,2
+24HZ,Forest of Dean,-2.235237813,2
+24JA,Gloucester,-1.051673069,3
+24JB,Stroud,-2.841203276,2
+24JC,Tewkesbury,-3.244772384,1
+25JD,Basingstoke and Deane,-2.741064381,2
+25JE,East Hampshire,-4.035204013,1
+25JF,Eastleigh,-4.035222132,1
+25JG,Fareham,-4.675303047,1
+25JH,Gosport,-0.911140891,3
+25JJ,Hart,-5.301343736,1
+25JK,Havant,-0.692543734,3
+25JL,New Forest,-3.613529167,1
+25JM,Portsmouth,1.535696315,4
+25JN,Rushmoor,-1.781997487,2
+25JP,Southampton,2.307199367,4
+25JQ,Test Valley,-3.207552853,1
+25JR,Winchester,-3.123766801,1
+26JS,Bromsgrove,-3.092408618,1
+26JT,Hereford,0.497578096,4
+26JU,Leominster,-2.765170604,2
+26JW,Malvern Hills,-3.206909316,1
+26JX,Redditch,-0.338883785,3
+26JY,South Herefordshire,-3.113158112,1
+26JZ,Worcester,-0.655902383,3
+26KA,Wychavon,-3.144014997,1
+26KB,Wyre Forest,-1.616055585,2
+27KC,Broxbourne,-2.361676729,2
+27KD,Dacorum,-1.971549534,2
+27KE,East Hertfordshire,-3.475711519,1
+27KF,Hertsmere,-2.024099286,2
+27KG,North Hertfordshire,-1.172143955,3
+27KH,St.Albans,-3.163935427,1
+27KJ,Stevenage,0.821612943,4
+27KK,Three Rivers,-2.708666826,2
+27KL,Watford,-0.793042939,3
+27KM,Welwyn Hatfield,-1.061513294,3
+28KN,Boothferry,-1.673525894,2
+28KP,Cleethorpes,-1.203259745,3
+28KQ,East Yorkshire,-1.499982055,2
+28KR,East Yorkshire Borough of Beverley,-3.881132794,1
+28KS,Glanford,-2.800459517,2
+28KT,Great Grimsby,2.222576108,4
+28KU,Holderness,-2.837185423,2
+28KW,Kingston Upon Hull,5.463368653,5
+28KX,Scunthorpe,2.549908995,5
+29KY,Medina,-0.823537489,3
+29KZ,South Wight,-1.022457824,3
+30LC,Ashford,-1.562453382,2
+30LD,Canterbury,-0.88051235,3
+30LE,Dartford,-1.559275849,2
+30LF,Dover,-0.528948343,3
+30LG,Gillingham,-1.321381742,3
+30LH,Gravesham,-0.070712479,3
+30LJ,Maidstone,-2.287493461,2
+30LK,Rochester upon Medway,-0.697380482,3
+30LL,Sevenoaks,-3.066693377,1
+30LM,Shepway,-0.359788444,3
+30LN,Swale,-0.683594574,3
+30LP,Thanet,1.033724795,4
+30LQ,Tonbridge and Malling,-2.974753211,1
+30LR,Tunbridge Wells,-2.059960873,2
+31LS,Blackburn,2.513221988,5
+31LT,Blackpool,1.212234444,4
+31LU,Burnley,1.036699752,4
+31LW,Chorley,-2.415299627,2
+31LX,Fylde,-3.846539279,1
+31LY,Hyndburn,-0.307124097,3
+31LZ,Lancaster,-0.825291744,3
+31MA,Pendle,-0.116504271,3
+31MB,Preston,1.825827211,4
+31MC,Ribble Valley,-4.805622805,1
+31MD,Rossendale,-0.58825567,3
+31ME,South Ribble,-3.823155736,1
+31MF,West Lancashire,-0.845660068,3
+31MG,Wyre,-3.097195234,1
+32MH,Blaby,-4.890964537,1
+32MJ,Charnwood,-2.955977962,1
+32MK,Harborough,-4.733414433,1
+32ML,Hinckley and Bosworth,-3.73531807,1
+32MM,Leicester,4.402565139,5
+32MN,Melton,-3.620874217,1
+32MP,North West Leicestershire,-2.032023141,2
+32MQ,Oadby and Wigston,-4.210484531,1
+32MR,Rutland,-3.074007761,1
+33MS,Boston,-0.781370183,3
+33MT,East Lindsey,-1.212371322,3
+33MU,Lincoln,2.470342373,4
+33MW,North Kesteven,-3.247444986,1
+33MX,South Holland,-3.107518999,1
+33MY,South Kesteven,-2.19443575,2
+33MZ,West Lindsey,-1.991727375,2
+34NA,Breckland,-2.062200823,2
+34NB,Broadland,-5.047799886,1
+34NC,Great Yarmouth,0.958857838,4
+34ND,King's Lynn and West Norfolk,-1.325219583,3
+34NE,North Norfolk,-2.014547318,2
+34NF,Norwich,3.215358849,5
+34NG,South Norfolk,-4.236682651,1
+35NH,Corby,2.487512674,4
+35NJ,Daventry,-3.643847847,1
+35NK,East Northamptonshire,-2.94938026,2
+35NL,Kettering,-1.884145212,2
+35NM,Northampton,-0.328201245,3
+35NN,South Northamptonshire,-4.217600098,1
+35NP,Wellingborough,-0.997453204,3
+36NQ,Alnwick,0.289503806,3
+36NR,Berwick-upon-Tweed,1.109952882,4
+36NS,Blyth Valley,0.947911625,4
+36NT,Castle Morpeth,-1.746098551,2
+36NU,Tynedale,-1.864134178,2
+36NW,Wansbeck,2.812437668,5
+37NX,Craven,-3.581435633,1
+37NY,Hambleton,-3.634723361,1
+37NZ,Harrogate,-3.609838815,1
+37PA,Richmondshire,-2.415645615,2
+37PB,Ryedale,-4.246514289,1
+37PC,Scarborough,-0.024132079,3
+37PD,Selby,-3.397779775,1
+37PE,York,1.194447393,4
+38PF,Ashfield,0.157104159,3
+38PG,Bassetlaw,-0.091116385,3
+38PH,Broxtowe,-2.372456264,2
+38PJ,Gedling,-2.725536818,2
+38PK,Mansfield,0.958248315,4
+38PL,Newark and Sherwood,-1.184890237,3
+38PM,Nottingham,5.113332083,5
+38PN,Rushcliffe,-3.661629485,1
+39PP,Cherwell,-2.131357254,2
+39PQ,Oxford,2.458397426,4
+39PR,South Oxfordshire,-3.5545623,1
+39PS,Vale of White Horse,-3.621142273,1
+39PT,West Oxfordshire,-3.345723898,1
+40PU,Bridgnorth,-2.602853677,2
+40PW,North Shropshire,-2.574845613,2
+40PX,Oswestry,-1.200530756,3
+40PY,Shrewsbury and Atcham,-2.148328719,2
+40PZ,South Shropshire,-2.453862299,2
+40QA,The Wrekin,0.065763783,3
+41QB,Mendip,-2.35957722,2
+41QC,Sedgemoor,-2.104858182,2
+41QD,South Somerset,-2.37434926,2
+41QE,Taunton Deane,-1.620439382,2
+41QF,West Somerset,-1.583853411,2
+42QG,Cannock Chase,-0.365931351,3
+42QH,East Staffordshire,-1.106816024,3
+42QJ,Lichfield,-3.191912218,1
+42QK,Newcastle-under-Lyme,-0.719808451,3
+42QL,South Staffordshire,-3.466425255,1
+42QM,Stafford,-2.828965634,2
+42QN,Staffordshire Moorlands,-3.711501872,1
+42QP,Stoke-on-Trent,1.673919776,4
+42QQ,Tamworth,-0.219442157,3
+43QR,Babergh,-3.08521056,1
+43QS,Forest Heath,-1.14455906,3
+43QT,Ipswich,0.454608977,4
+43QU,Mid Suffolk,-3.785288979,1
+43QW,St.Edmundsbury,-1.996131062,2
+43QX,Suffolk Coastal,-3.265178855,1
+43QY,Waveney,-1.064510698,3
+44QZ,Elmbridge,-3.83336763,1
+44RA,Epsom and Ewell,-4.18700798,1
+44RB,Guildford,-3.225099383,1
+44RC,Mole Valley,-3.906424989,1
+44RD,Reigate and Banstead,-3.33245623,1
+44RE,Runnymede,-3.316833011,1
+44RF,Spelthorne,-3.760516711,1
+44RG,Surrey Heath,-4.781430928,1
+44RH,Tandridge,-3.99818676,1
+44RJ,Waverley,-3.476676848,1
+44RK,Woking,-3.122128755,1
+45RL,North Warwickshire,-1.879764212,2
+45RM,Nuneaton and Bedworth,-0.797831962,3
+45RN,Rugby,-2.283652175,2
+45RP,Stratford-on-Avon,-3.505906737,1
+45RQ,Warwick,-1.99200327,2
+46RR,Adur,-2.228774023,2
+46RS,Arun,-2.49176865,2
+46RT,Chichester,-2.487963153,2
+46RU,Crawley,-0.030721226,3
+46RW,Horsham,-3.908443435,1
+46RX,Mid Sussex,-4.248640051,1
+46RY,Worthing,-1.904195126,2
+47RZ,Kennet,-1.806263752,2
+47SA,North Wiltshire,-3.242500382,1
+47SB,Salisbury,-1.716866865,2
+47SC,Thamesdown,-1.266615808,3
+47SD,West Wiltshire,-2.903990963,2
+48SE,Alyn and Deeside,-2.296579043,2
+48SF,Colwyn,-1.326388446,3
+48SG,Delyn,-1.880025737,2
+48SH,Glyndwr,-1.832567464,2
+48SJ,Rhuddlan,0.21058282,3
+48SK,Wrexham Maelor,0.841565166,4
+49SL,Carmarthen,-1.97961587,2
+49SM,Ceredigion,-1.527876532,2
+49SN,Dinefwr,-1.397409647,3
+49SP,Llanelli,0.447463581,4
+49SQ,Preseli Pembrokeshire,-0.369907093,3
+49SR,South Pembrokeshire,0.22594986,3
+50SS,Blaenau Gwent,2.629449045,5
+50ST,Islwyn,0.273014126,3
+50SU,Monmouth,-2.683961738,2
+50SW,Newport,1.467873997,4
+50SX,Torfaen,1.306222756,4
+51SY,Aberconwy,-0.910003197,3
+51SZ,Arfon,1.42981485,4
+51TA,Dwyfor,-0.746145417,3
+51TB,Meirionnydd,-0.802958342,3
+51TC,Ynys Mon-Isle of Anglesey,0.016760945,3
+52TD,Cynon Valley,2.123290192,4
+52TE,Merthyr Tydfil,3.048523461,5
+52TF,Ogwr,-0.288149705,3
+52TG,Rhondda,2.255413047,4
+52TH,Rhymney Valley,1.934152054,4
+52TJ,Taff-Ely,-0.591053172,3
+53TK,Brecknock,-2.004282072,2
+53TL,Montgomeryshire,-1.917160836,2
+53TM,Radnor,-2.650413414,2
+54TN,Cardiff,1.346122011,4
+54TP,Vale of Glamorgan,-1.372115462,3
+55TQ,Lliw Valley,-1.086608558,3
+55TR,Neath,0.115490094,3
+55TS,Port Talbot,1.065281848,4
+55TT,Swansea,1.316566654,4
+NA,Aberdeen City,1.693655405,4
+NA,Angus,2.014718396,4
+NA,Annandale and Eskdale,0.45762377,4
+NA,Argyll and Bute,2.500896304,5
+NA,Badenoch and Strathspey,0.170315107,3
+NA,Banff and Buchan,0.680506438,4
+NA,Bearsden and Milngavie,-4.544377341,1
+NA,Berwickshire,0.44715255,4
+NA,Caithness,2.925824964,5
+NA,Clackmannan,3.442692984,5
+NA,Clydebank,8.144521087,5
+NA,Clydesdale,2.38231702,4
+NA,Cumbernauld and Kilsyth,2.653630524,5
+NA,Cumnock and Doon Valley,7.088860073,5
+NA,Cunninghame,4.253817705,5
+NA,Dumbarton,3.396144991,5
+NA,Dundee City,5.879125429,5
+NA,Dunfermline,2.381670283,4
+NA,East Kilbride,1.007706505,4
+NA,East Lothian,1.797449076,4
+NA,Eastwood,-4.932617985,1
+NA,Edinburgh City,2.159705186,4
+NA,Ettrick and Lauderdale,-0.078069523,3
+NA,Falkirk,3.704185565,5
+NA,Glasgow City,9.71525872,5
+NA,Gordon,-3.762176683,1
+NA,Hamilton,5.01703611,5
+NA,Inverclyde,7.235767553,5
+NA,Inverness,0.825122681,4
+NA,Kilmarnock and Loudon,3.984753694,5
+NA,Kincardine and Deeside,-3.355161092,1
+NA,Kirkcaldy,3.872061949,5
+NA,Kyle and Carrick,1.722835535,4
+NA,Lochaber,3.04753759,5
+NA,Midlothian,2.651837921,5
+NA,Monklands,8.250784251,5
+NA,Moray,0.871397909,4
+NA,Motherwell,7.812327785,5
+NA,Nairn,0.557854388,4
+NA,Nithsdale,1.208756342,4
+NA,North East Fife,-0.832411603,3
+NA,Orkney,-1.182426243,3
+NA,Perth and Kinross,0.211673987,3
+NA,Renfrew,4.446320402,5
+NA,Ross and Cromarty,1.504470127,4
+NA,Roxburgh,1.168964456,4
+NA,Shetland,-0.020306018,3
+NA,Skye and Lochalsh,0.65147635,4
+NA,Stewarty,-0.753863863,3
+NA,Stirling,1.403676419,4
+NA,Strathkelvin,0.436195447,4
+NA,Sutherland,2.141588209,4
+NA,Tweeddale,0.007948782,3
+NA,West Lothian,3.163341781,5
+NA,Western Isles,1.964581472,4
+NA,Wigtown,2.80528264,5
+NA, Strabane       ,8.863670546,5
+NA,Antrim          ,5.629978393,5
+NA,Ards            ,3.814498824,5
+NA,Armagh          ,4.956995936,5
+NA,Ballymena       ,4.390447029,5
+NA,Ballymoney      ,6.155599092,5
+NA,Banbridge       ,4.276845974,5
+NA,Belfast         ,9.457491407,5
+NA,Carrickfergus   ,4.856053894,5
+NA,Castlereagh     ,3.221724908,5
+NA,Coleraine       ,6.162588304,5
+NA,Cookstown       ,5.902357015,5
+NA,Craigavon       ,6.353024946,5
+NA,Derry           ,9.954979592,5
+NA,Down            ,4.837835003,5
+NA,Dungannon       ,6.083766192,5
+NA,Fermanagh       ,5.731447305,5
+NA,Larne           ,5.390123141,5
+NA,Limavady        ,7.653015106,5
+NA,Lisburn         ,5.339132075,5
+NA,Magherafelt     ,5.769046278,5
+NA,Moyle           ,7.745223555,5
+NA,Newry and Mourne,7.113997212,5
+NA,Newtownabbey    ,4.762629788,5
+NA,North Down      ,1.986283469,4
+NA,Omagh           ,6.120617802,5
